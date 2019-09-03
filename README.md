@@ -5,3 +5,5 @@ Hi~ students!
 
 This is test study for Git & GitHub!
 Have a nice class!
+
+Say Hello to Class!
